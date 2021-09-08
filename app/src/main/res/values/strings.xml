@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Allow</string>
+    <string name="danger">위험 권한</string>
+    <string name="camera">카메라</string>
+</resources>
